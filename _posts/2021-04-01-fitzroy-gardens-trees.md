@@ -9,7 +9,7 @@ tags:
   - Gardens
 ---
 
-Major University Exploration and Visualisation project investigating the relationship between an NBA player and their salary through a variety of factors.
+Mini Project for University looking briefly into a snapshot on plant data at the Fitzroy Gardens.
 
 <div class="video-container">
     <iframe src="https://braedenalford.shinyapps.io/fitzroygardens/" height="900" width="1100" allowfullscreen="" frameborder="0">
