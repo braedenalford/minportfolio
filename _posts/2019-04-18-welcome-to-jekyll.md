@@ -12,6 +12,6 @@ tags:
 Major University Exploration and Visualisation assignment relating to the relationship between an NBA player and their salary through a variety of factors.
 
 <div class="video-container">
-    <iframe src="https://braedenalford.shinyapps.io/NBASalaryProject/" height="1200" width="1200" allowfullscreen="" frameborder="0">
+    <iframe src="https://braedenalford.shinyapps.io/NBASalaryProject/" height="1050" width="1000" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
