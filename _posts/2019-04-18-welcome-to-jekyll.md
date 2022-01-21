@@ -9,7 +9,7 @@ tags:
   - NBA
 ---
 
-Major University Exploration and Visualisation project investigating the relationship between an NBA player and their salary through a variety of factors such as height, weight, and on court performance.
+Major University Exploration and Visualisation project investigating the relationship between an NBA player and their salary through a variety of factors.
 
 <div class="video-container">
     <iframe src="https://braedenalford.shinyapps.io/NBASalaryProject/" height="1050" width="1000" allowfullscreen="" frameborder="0">
