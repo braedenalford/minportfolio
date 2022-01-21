@@ -8,6 +8,7 @@ tags:
   - Nature
   - R
   - RShiny
+  - Leaflet
 ---
 
 Mini project for University looking briefly into a snapshot on plant data at the Fitzroy Gardens.
