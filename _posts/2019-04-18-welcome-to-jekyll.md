@@ -10,6 +10,6 @@ tags:
 ---
 
 <div class="video-container">
-    <iframe src="https://braedenalford.shinyapps.io/NBASalaryProject/" height="1000" width="1500" allowfullscreen="" frameborder="0">
+    <iframe src="https://braedenalford.shinyapps.io/NBASalaryProject/" height="1200" width="1200" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
