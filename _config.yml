@@ -63,9 +63,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Mathematician turned Data Scientist"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://braedenalford.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/braedenalfordd"
@@ -78,9 +75,6 @@ author:
 
 footer:
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://braedenalford.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/braedenalfordd"
