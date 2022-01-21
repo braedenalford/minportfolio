@@ -5,8 +5,7 @@ categories:
   - project
 tags:
   - Sports
-  - Visualisation
-  - NBA
+  - Visualisations
   - R
   - RShiny
 ---
