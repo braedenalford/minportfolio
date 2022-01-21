@@ -85,8 +85,6 @@ footer:
       icon: "fa-regular fa-fw fa-envelope"
       url: "mailto:braeden.w.alford@gmail.com"
       
-      
-      <i class="fa-regular fa-envelope"></i>
 
 defaults:
   # _posts
