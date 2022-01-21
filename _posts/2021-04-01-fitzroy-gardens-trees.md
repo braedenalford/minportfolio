@@ -7,6 +7,8 @@ tags:
   - Trees
   - Visualisation
   - Gardens
+  - R
+  - RShiny
 ---
 
 Mini project for University looking briefly into a snapshot on plant data at the Fitzroy Gardens.
