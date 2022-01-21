@@ -4,9 +4,8 @@ date: 2021-04-01T15:34:30-04:00
 categories:
   - project
 tags:
-  - Trees
-  - Visualisation
-  - Gardens
+  - Visualisations
+  - Nature
   - R
   - RShiny
 ---
