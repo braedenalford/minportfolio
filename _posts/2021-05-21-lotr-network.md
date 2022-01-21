@@ -1,16 +1,15 @@
 ---
 title: "The Network of The Lord of the Rings"
-date: 2021-04-01T15:34:30-04:00
+date: 2021-05-21T15:34:30-04:00
 categories:
   - project
 tags:
   - Visualisations
-  - Nature
-  - R
-  - RShiny
-  - Leaflet
+  - Film
+  - JavaScript
+  - D3
 ---
-
+<div>
 <!DOCTYPE html>
 <html>
 
@@ -237,3 +236,4 @@ tags:
 </body>
 
 </html>
+</div>
