@@ -1,6 +1,6 @@
 main:
   - title: "Projects"
-    url: /projects/
+    url: /posts/
   - title: "Resume"
     url: /assets/images/braedenAlfordResumeDS.pdf
   - title: "About"
