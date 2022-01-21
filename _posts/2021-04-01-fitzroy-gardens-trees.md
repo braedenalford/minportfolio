@@ -14,6 +14,6 @@ Mini project for University looking briefly into a snapshot on plant data at the
 This was my first introduction into using R Shiny as well as Leaflet.
 
 <div class="video-container">
-    <iframe src="https://braedenalford.shinyapps.io/fitzroygardens/" height="1000" width="1100" allowfullscreen="" frameborder="0">
+    <iframe src="https://braedenalford.shinyapps.io/fitzroygardens/" height="1000" width="1050" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
