@@ -9,7 +9,7 @@ tags:
   - NBA
 ---
 
-This theme supports **link posts**, made famous by John Gruber. To use, just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done.
+Major University Exploration and Visualisation assignment relating to the relationship between an NBA player and their salary through a variety of factors.
 
 <div class="video-container">
     <iframe src="https://braedenalford.shinyapps.io/NBASalaryProject/" height="1200" width="1200" allowfullscreen="" frameborder="0">
