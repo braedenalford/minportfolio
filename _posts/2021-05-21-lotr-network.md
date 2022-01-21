@@ -39,10 +39,6 @@ tags:
 		font-weight: 900;
 	}
 	
-	body {
-		background-color: lightgray;
-	}
-	
 	.page {
 		width: 1200px;
 		background-color: white;
