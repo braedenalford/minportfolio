@@ -72,6 +72,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/braedenalford/"
+    - label: "Mail"
+      icon: "fa-regular fa-fw fa-envelope"
+      url: "mailto:braeden.w.alford@gmail.com"
 
 footer:
   links:
@@ -84,6 +87,12 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/braedenalford/"
+    - label: "Mail"
+      icon: "fa-regular fa-fw fa-envelope"
+      url: "mailto:braeden.w.alford@gmail.com"
+      
+      
+      <i class="fa-regular fa-envelope"></i>
 
 defaults:
   # _posts
