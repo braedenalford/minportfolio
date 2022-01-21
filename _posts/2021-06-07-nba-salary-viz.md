@@ -7,6 +7,8 @@ tags:
   - Sports
   - Visualisation
   - NBA
+  - R
+  - RShiny
 ---
 
 Major University Exploration and Visualisation project investigating the relationship between an NBA player and their salary through a variety of factors.
