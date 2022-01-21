@@ -70,7 +70,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/braedenalford/"
     - label: "Mail"
-      icon: "fab fa-fw fa-envelope"
+      icon: "far fa-fw fa-envelope"
       url: "mailto:braeden.w.alford@gmail.com"
 
 footer:
@@ -82,7 +82,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/braedenalford/"
     - label: "Mail"
-      icon: "fab fa-fw fa-envelope"
+      icon: "far fa-fw fa-envelope"
       url: "mailto:braeden.w.alford@gmail.com"
       
 
