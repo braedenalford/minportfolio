@@ -1,3 +1,6 @@
+header:
+  overlay_image: /assets/images/nba-basketball-iso.jpg
+
 ---
 title: "Factors Affecting an NBA Player's Salary"
 date: 2021-06-07T15:34:30-04:00
