@@ -28,9 +28,6 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
-header:
-  overlay_image: /assets/images/nba-basketball-iso.jpg
-
 # Outputting
 permalink: /:categories/:title/
 paginate: 10 # amount of posts to show
@@ -89,6 +86,8 @@ footer:
       icon: "far fa-fw fa-envelope"
       url: "mailto:braeden.w.alford@gmail.com"
       
+header:
+  overlay_image: /assets/images/nba-basketball-iso.jpg
 
 defaults:
   # _posts
