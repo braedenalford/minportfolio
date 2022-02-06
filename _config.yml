@@ -89,10 +89,7 @@ footer:
     - label: "Email"
       icon: "far fa-fw fa-envelope"
       url: "mailto:braeden.w.alford@gmail.com"
-      
-header:
-  overlay_image: /assets/images/nba-basketball-iso.jpg
-
+     
 defaults:
   # _posts
   - scope:
