@@ -27,6 +27,9 @@ search: false
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+header:
+  image: /assets/images/nba-basketball-iso.jpg
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 10 # amount of posts to show
