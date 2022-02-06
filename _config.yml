@@ -29,7 +29,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
 header:
-  image: /assets/images/nba-basketball-iso.jpg
+  overlay_image: /assets/images/nba-basketball-iso.jpg
 
 # Outputting
 permalink: /:categories/:title/
