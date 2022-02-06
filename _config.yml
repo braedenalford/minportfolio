@@ -24,6 +24,8 @@ github_username: braedenalfordd
 minimal_mistakes_skin: mint
 search: true
 
+layout: splash
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
