@@ -18,7 +18,11 @@ tags:
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
 <style>
-	
+	form {
+	    margin: 0 0 5px 0;
+	    padding: 1em;
+	    background-color: none;
+	}
 	.elementor-widget-text-editor {
 		color: #212529;
 		font-family: var( --e-global-typography-text-font-family ), Sans-serif;
