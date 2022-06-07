@@ -21,7 +21,6 @@ tags:
 	form {
 	    margin: 0 0 5px 0;
 	    padding: 1em;
-	    background-color: none;
 	}
 	.elementor-widget-text-editor {
 		color: #212529;
@@ -125,12 +124,12 @@ tags:
 	}
 	.form-control {display: block;
 	width: 100%;
-	background-color: #f1f1f1;height: 34px;
+	height: 34px;
 	padding: 6px 12px;
 	font-size: 16px;
 	line-height: 1.42857143;
 	color: #555;
-	background-color: #fff;
+	
 	background-image: none;
 	border: 1px solid #ccc;
 	left: 100px;border-radius: 4px;
