@@ -48,7 +48,9 @@ tags:
 
 
 <style>
-	
+span, .ui-slider {
+    transition: all 0.1s ease-in-out;
+}
 input[type="image"], input[type="checkbox"], input[type="radio"] {
     width: auto;
     height: auto;
