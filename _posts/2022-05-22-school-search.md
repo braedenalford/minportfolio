@@ -48,6 +48,20 @@ tags:
 
 
 <style>
+	
+input[type="image"], input[type="checkbox"], input[type="radio"] {
+    width: auto;
+    height: auto;
+    padding: 0;
+    margin: 3px 0;
+    margin-top: 12px;
+    line-height: normal;
+    cursor: pointer;
+    border-radius: 0;
+    border: 0 \9;
+    box-shadow: none;
+}
+
 label {
     font-size:16px;
 }
