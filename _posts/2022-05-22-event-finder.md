@@ -30,6 +30,7 @@ tags:
 	}
 	
 	label {
+		display: initial !important;
 		font-family: var( --e-global-typography-text-font-family ), Sans-serif;
 		margin-bottom: 5px;
 	}
