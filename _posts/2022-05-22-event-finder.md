@@ -52,6 +52,7 @@ tags:
 	border-radius: 0.25rem;
 	font-family: var( --e-global-typography-text-font-family ), Sans-serif;
 	font-weight: var( --e-global-typography-text-font-weight );
+	font-size: 16px;
 	min-height: 20px;
 	padding: 19px;
 	margin-bottom: 20px;
