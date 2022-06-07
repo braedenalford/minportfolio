@@ -133,7 +133,6 @@ tags:
 	box-shadow: none;
 	}
 	body {
-	padding-top: 50px;
 	overflow: hidden;
 	font-family: Calibri, "Times new roman", Serif;
 	}
@@ -180,8 +179,7 @@ tags:
 	display: flex;
 	flex-wrap: wrap;
 	margin-right: 0px;
-	margin-left: 0px;
-	margin-top: 50px;}
+	margin-left: 0px;}
 
 	#wrapper {
 	min-height: 100%;
