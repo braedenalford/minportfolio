@@ -327,7 +327,23 @@ element.style {
 
 	.btn, .btn:hover {
     font-weight: 600;
-    font-size: 16px;
+    font-size: 16px !important;
+	
+	font-family: Montserrat,sans-serif;
+    font-weight: 700;
+    display: inline-block;
+    padding: 10px 25px;
+    text-align: center;
+    white-space: nowrap;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #444;
+    border: 2px solid rgba(68,68,68,.19);
+    background-image: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    transition: color .2s ease,border-color .2s ease,background-color .2s ease;
     display: inline-block;
     font-weight: 400;
     color: #212529;
