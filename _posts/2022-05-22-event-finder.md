@@ -99,7 +99,7 @@ tags:
 	.pagination>li>a:hover {color: #fff;}
 	.btn {
 	font-weight: 600;
-	font-size: 16px;
+	font-size: 16px !important;
 	display: inline-block;
 	color: #212529;
 	background-color: #545b62;
