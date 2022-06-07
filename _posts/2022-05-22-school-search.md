@@ -323,7 +323,8 @@ element.style {
 .col-md-5 {flex: 0 0 41.666667%;max-width: 41.666667%;}
 
 .col-md-3 {flex: 0 0 25%;
-    max-width: 25%;}
+    max-width: 25%;
+	padding-top: 3.5px !important;}
 
 	.btn, .btn:hover {
     font-weight: 600;
