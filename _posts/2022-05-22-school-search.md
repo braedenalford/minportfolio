@@ -48,7 +48,14 @@ tags:
 
 
 <style>
-
+	
+input[type="checkbox"], input[type="radio"] {
+    box-sizing: border-box;
+    padding: 0;
+    width: 13px;
+    height: 13px;
+}
+	
 .form-check-input:checked {
     background-color: #F7BF50;
     border-color: #F7BF50;
