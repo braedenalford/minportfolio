@@ -56,8 +56,8 @@ label {
 input[type="checkbox"], input[type="radio"] {
     box-sizing: border-box;
     padding: 0;
-    width: 13px;
-    height: 13px;
+    width: 15px;
+    height: 15px;
 }
 	
 .form-check-input:checked {
