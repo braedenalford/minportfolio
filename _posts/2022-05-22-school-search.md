@@ -406,7 +406,7 @@ html {
     }
 
     .container {
-        width: 120%;
+        width: 170%;
         z-index: -1;
         padding-right: 0px;
         padding-left: 0px;
