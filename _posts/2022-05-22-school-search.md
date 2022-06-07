@@ -48,6 +48,9 @@ tags:
 
 
 <style>
+	body {
+		background-color: #f3f6f6 !important;
+	}
 span, .ui-slider {
     transition: all 0.1s ease-in-out;
 }
