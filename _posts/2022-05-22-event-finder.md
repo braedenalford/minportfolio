@@ -172,8 +172,8 @@ tags:
 	display: flex;
 	flex-wrap: wrap;
 	margin-right: 0px;
-	margin-left: 713px;
-	margin-top: 0px;}
+	margin-left: 0px;
+	margin-top: 50px;}
 
 	#wrapper {
 	min-height: 100%;
