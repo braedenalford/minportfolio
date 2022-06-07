@@ -206,7 +206,7 @@ a:hover{
 
 .card {position: relative;display: flex;flex-direction: column;min-width: 0;word-break: break-word;background-color: #FFF;background-clip: border-box;border: 1px solid rgba(0,0,0,.125);border-radius: 0.25em;}
 
-h5 {font-size: 1.25rem;}
+h5 {font-size: 20px;}
 
 .mt-5, .my-5 {margin-top: auto;}
 
@@ -549,7 +549,7 @@ html {
     width: 100%;
     height: calc(1.5em + 0.75rem + 2px);
     padding: 0.375rem 0.75rem;
-    font-size: 1rem;
+    font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
     color: #495057;
