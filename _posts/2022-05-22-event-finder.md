@@ -21,6 +21,7 @@ tags:
 	form {
 	    margin: 0 0 5px 0;
 	    padding: 1em;
+	    background-color: #f3f6f6;
 	}
 	.elementor-widget-text-editor {
 		color: #212529;
