@@ -852,7 +852,7 @@ label.col-sm-2.control-label {font-family: var( --e-global-typography-text-font-
 	color: #000;
 	text-transform: uppercase;text-align: center;text-decoration: none;
 	background-color: #F7BF50;
-	border: 1px solid #ddd;font-weight: 600;font-size: 1rem;font-family: Montserrat,sans-serif;
+	border: 1px solid #ddd;font-weight: 600;font-size: 16px;font-family: Montserrat,sans-serif;
     border-top-left-radius: 4px;
     border-bottom-left-radius: 4px;}
 
