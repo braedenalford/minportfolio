@@ -48,6 +48,10 @@ tags:
 
 
 <style>
+label {
+    font-size:16px;
+}
+	
 	
 input[type="checkbox"], input[type="radio"] {
     box-sizing: border-box;
