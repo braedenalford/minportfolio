@@ -18,6 +18,42 @@ tags:
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
 <style>
+	.btn, .btn:hover {
+	    font-weight: 600;
+	    font-size: 16px !important;
+	    font-family: Montserrat,sans-serif;
+	    font-weight: 700;
+	    display: inline-block;
+	    padding: 10px 25px;
+	    text-align: center;
+	    white-space: nowrap;
+	    text-transform: uppercase;
+	    letter-spacing: 1px;
+	    color: #444;
+	    border: 2px solid rgba(68,68,68,.19);
+	    background-image: none;
+	    -webkit-user-select: none;
+	    -ms-user-select: none;
+	    user-select: none;
+	    transition: color .2s ease,border-color .2s ease,background-color .2s ease;
+	    display: inline-block;
+	    font-weight: 400;
+	    color: #212529;
+	    background-color: #545b62;
+	    text-align: center;
+	    vertical-align: middle;
+	    -webkit-user-select: none;
+	    -moz-user-select: none;
+	    -ms-user-select: none;
+	    user-select: none;
+	    background-color: transparent;
+	    border: 1px solid transparent;
+	    padding: 0.375rem 0.75rem;
+	    line-height: 1.5;
+	    border-radius: 0.25rem;
+	    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+	}
+	
 	.pagination>li>a, .pagination>li>span {
 	    font-size: 16px !important;
 	}
