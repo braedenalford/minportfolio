@@ -87,7 +87,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/braedenalford/"
     - label: "Email"
-      icon: "far fa-fw fa-envelope"
+      icon: "fab fa-fw fa-envelope"
       url: "mailto:braeden.w.alford@gmail.com"
      
 defaults:
